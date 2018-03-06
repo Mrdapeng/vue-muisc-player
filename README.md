@@ -1,6 +1,6 @@
 # vue-music
 
-> Vue.js music App
+> Vue.js music-App
 
 
 ## 项目截图
